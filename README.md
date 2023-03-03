@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Madan
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MERN 
+- 👀 I’m interested in building web applications.
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on MERN. 
 - 📫 How to reach me madangowda3242@gmail.com
 
 <!---
