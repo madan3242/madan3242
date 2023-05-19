@@ -29,7 +29,7 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=madan3242&" alt="madan3242" />
 </p>
 
-<p>
+<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madan3242&show_icons=true&locale=en" alt="madan3242" />
 </p>
 
