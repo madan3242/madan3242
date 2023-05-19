@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Madan
+<h1 align="center">Hi 👋, I'm Madan</h1>
+<h3 align="center">A MERN Stack developer</h3>
+
 - 👀 I’m interested in building web applications.
 - 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on MERN. 
