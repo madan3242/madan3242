@@ -26,7 +26,7 @@
    
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madan3242&" alt="madan3242" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=madan3242&" alt="madan3242" />
 </p>
 
 <p>
