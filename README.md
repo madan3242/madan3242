@@ -6,11 +6,6 @@
 - 💞️ I’m looking to collaborate on MERN. 
 - 📫 How to reach me madangowda3242@gmail.com
 
-<!---
-madan3242/madan3242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -30,8 +25,19 @@ You can click the Preview link to take a look at your changes.
 </p>
    
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madan3242&show_icons=true&locale=en&layout=compact" alt="madan3242" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=madan3242&show_icons=true&locale=en" alt="madan3242" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madan3242&show_icons=true&locale=en" alt="madan3242" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madan3242&" alt="madan3242" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madan3242&" alt="madan3242" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madan3242&show_icons=true&locale=en&layout=compact" alt="madan3242" />
+</p>
+
+<!---
+madan3242/madan3242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
