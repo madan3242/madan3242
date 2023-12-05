@@ -49,13 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madan3242&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madan3242&show_icons=true&locale=en" alt="madan3242" /></p> -->
+<img src="https://raw.githubusercontent.com/madan3242/madan3242/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
-
+###
 <!---
 madan3242/madan3242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
