@@ -2,8 +2,8 @@
 <h3 align="center">A Full Stack developer</h3>
 
 - 👀 I’m interested in building web applications.
-- 🌱 I’m currently learning TypeScript and DevOps.
-- 💞️ I’m looking to collaborate on MERN. 
+- 🌱 I’m currently learning TypeScript & DevOps.
+- 💞️ I’m looking to collaborate on React.js & Node.js. 
 - 📫 How to reach me madangowda3242@gmail.com
 ###
 <h3 align="left">🛠 Languages and Tools:</h3>
