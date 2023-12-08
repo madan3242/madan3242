@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-###
+
 <h3 aligin="left">🔥 My Stats:</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=madan3242&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
