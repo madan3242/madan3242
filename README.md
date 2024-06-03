@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack developer</h3>
 
 - 👀 I’m interested in building web applications.
-- 🌱 I’m currently learning TypeScript & Docker.
+- 🌱 I’m currently learning AWS & Devops.
 - 💞️ I’m looking to collaborate on React.js & Node.js. 
 - 📫 How to reach me madangowda3242@gmail.com
 ###
