@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Madan Gowda</h1>
-<h3 align="center">A Full Stack developer</h3>
+<h1>Hello 👋</h1>
 
-- 👀 I’m interested in building web applications.
+- 👀 I’m interested in building Web Apps.
 - 🌱 I’m currently learning AWS & DevOps.
 - 💞️ I’m looking to collaborate on React.js & Node.js. 
 - 📫 How to reach me madangowda3242@gmail.com
