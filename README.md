@@ -1,7 +1,7 @@
 <h1>Hello 👋</h1>
 
 - 👀 I’m interested in building Web Apps.
-- 🌱 I’m currently learning AWS & DevOps.
+- 🌱 I’m currently learning Cloud & DevOps.
 - 💞️ I’m looking to collaborate on React.js & Node.js. 
 - 📫 How to reach me madangowda3242@gmail.com
 
